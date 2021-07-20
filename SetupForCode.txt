@@ -1,0 +1,6 @@
+#Python Full setup beginner to Master
+#Installing python in Linux
+   1-sudo apt install python3
+   2-sudo apt install idle3 or you can also use any Editor like Code Visual Studio(Recommended)
+   3-sudo apt install python3-pip
+   4-pip intall numpy,pandas,scipy,matplotlib
